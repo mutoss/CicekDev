@@ -9,6 +9,7 @@ namespace Cicek
         public void Configuration(IAppBuilder app)
         {
             //test 2.1
+            //this is the dev version
             ConfigureAuth(app);
         }
     }

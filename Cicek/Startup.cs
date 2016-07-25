@@ -8,6 +8,7 @@ namespace Cicek
     {
         public void Configuration(IAppBuilder app)
         {
+            //test
             ConfigureAuth(app);
         }
     }
